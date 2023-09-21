@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> ebc71515548054984b5a48109abf4850d580ba1b
 //approach 2
 #include<iostream>
 using namespace std;
